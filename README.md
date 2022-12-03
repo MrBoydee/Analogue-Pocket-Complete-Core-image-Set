@@ -7,7 +7,8 @@ All artwork was made useing the amazing tools in the Pocket-Sync app by <a href=
 
 Images will be updated Daily as new cores are released.
 
-![Gif](https://user-images.githubusercontent.com/118319530/205417913-97a827d5-a182-42e2-afd5-a08e3892062f.gif
+![Gif](https://user-images.githubusercontent.com/118319530/205418165-c431a03e-f434-4073-884f-96ddff99e5a5.gif)
+
 
 
 
