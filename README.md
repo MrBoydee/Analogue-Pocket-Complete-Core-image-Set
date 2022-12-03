@@ -3,7 +3,7 @@ Shares some artwork from  <a href="https://github.com/MegaZXretro/Analogue-Pocke
 
 I just wanted to fill out the rest of the core art so it had a more cohesive and uniform look. 
 
-All artwork wasmade useing the Pocket-Sync app by <a href="https://github.com/neil-morrison44/pocket-sync" target="neil-morrison44">neil-morrison44</a>
+All artwork was made useing the Pocket-Sync app by <a href="https://github.com/neil-morrison44/pocket-sync" target="neil-morrison44">neil-morrison44</a>
 
 ![Untitled](https://user-images.githubusercontent.com/118319530/205410551-7069df33-6755-402c-8ab5-16f782ac82ef.gif)
 
