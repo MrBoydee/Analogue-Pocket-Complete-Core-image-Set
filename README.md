@@ -3,7 +3,7 @@ Shares a small amount of artwork from  <a href="https://github.com/MegaZXretro/A
 
 I just wanted to fill out the rest of the core art so it had a more cohesive and uniform look. 
 
-Used alternatives art and made changes where I could.
+Used alternative art and made changes where I could.
 
 All artwork was made useing the amazing tools in the Pocket-Sync app by <a href="https://github.com/neil-morrison44/pocket-sync" target="neil-morrison44">neil-morrison44</a>
 
