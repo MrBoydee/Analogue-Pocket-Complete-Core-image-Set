@@ -12,7 +12,7 @@ Images will be updated Daily as new cores are released.
 ![Gif](https://user-images.githubusercontent.com/118319530/205517645-1637c9e8-a278-4f98-ad03-e8bd14cf65e2.gif)
 
 
-To install locate Platforms > Images and drag and drop .bin images files. 
+To install simply locate Platforms > Images and drag and drop .bin images files. 
 
 
 Images that start with jt are part of the Jotego Core and may require Patreon support in order use. 
