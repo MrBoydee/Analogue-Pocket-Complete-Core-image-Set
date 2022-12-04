@@ -17,6 +17,8 @@ To install simply locate Platforms > Images and drag and drop .bin images files.
 
 Images that start with jt are part of the Jotego Core and may require Patreon support in order to use. 
 
+Click the link below to subscribe now.
+
 <a href="https://www.patreon.com/join/jotego" target="Jotego Patreon">Jotego Patreon</a>
 
 
