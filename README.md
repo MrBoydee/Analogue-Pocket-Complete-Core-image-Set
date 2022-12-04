@@ -1,5 +1,5 @@
 # Analogue-Pocket-Complete-Core-image-Set
-Shares small ammmount of artwork from  <a href="https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art" target="MegaZXretro">MegaZXretro</a> and <a href="https://github.com/dyreschlock/pocket-platform-images" target="dyreschlock">dyreschlock</a> both of which are more talented then I am. 
+Shares a small ammmount of artwork from  <a href="https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art" target="MegaZXretro">MegaZXretro</a> and <a href="https://github.com/dyreschlock/pocket-platform-images" target="dyreschlock">dyreschlock</a> both of which are more talented then I am. 
 
 I just wanted to fill out the rest of the core art so it had a more cohesive and uniform look. Made changes where I could.
 
