@@ -15,7 +15,7 @@ Images will be updated Daily as new cores are released.
 To install simply locate Platforms > Images and drag and drop .bin images files. 
 
 
-Images that start with jt are part of the Jotego Core and may require Patreon support in order use. 
+Images that start with jt are part of the Jotego Core and may require Patreon support in order to use. 
 
 
 
