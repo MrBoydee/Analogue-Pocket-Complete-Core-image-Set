@@ -5,7 +5,8 @@ I just wanted to fill out the rest of the core art so it had a more cohesive and
 
 All artwork was made useing the amazing tools in the Pocket-Sync app by <a href="https://github.com/neil-morrison44/pocket-sync" target="neil-morrison44">neil-morrison44</a>
 
-![Gif](https://user-images.githubusercontent.com/118319530/205517565-be0268b2-45bb-466d-a587-2264189a47b9.gif)
+![Gif](https://user-images.githubusercontent.com/118319530/205517645-1637c9e8-a278-4f98-ad03-e8bd14cf65e2.gif)
+
 
 Images will be updated Daily as new cores are released.
 
