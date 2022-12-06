@@ -16,6 +16,8 @@ Images will be updated Daily as new cores are released.
 
 To install simply locate Platforms > Images and drag and drop .bin images files. 
 
+Just added Amiga 500 art for the core by <a href="https://github.com/Mazamars312" target="Mazamars312">Mazamars312</a>
+
 
 Images that start with jt are part of the Jotego Core and may require Patreon support in order to use. 
 
