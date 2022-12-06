@@ -1,5 +1,5 @@
 # Analogue-Pocket-Complete-Core-image-Set
-Adds logos to the default core art from the the cores. 
+Adds logos to the default core art from the update all script. 
 
 Shares a small amount of artwork from  <a href="https://github.com/MegaZXretro/Analogue-Pocket-Custom-Platform-Art" target="MegaZXretro">MegaZXretro</a> and <a href="https://github.com/dyreschlock/pocket-platform-images" target="dyreschlock">dyreschlock</a> both of which are more talented then I am. 
 
