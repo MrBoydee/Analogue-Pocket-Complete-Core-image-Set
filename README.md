@@ -25,7 +25,7 @@ Click the link below to subscribe now and gain access.
 
 
 
-Just added Amiga 500 art for the core by <a href="https://github.com/Mazamars312" target="Mazamars312">Mazamars312</a>
+
 
 
 
